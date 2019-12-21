@@ -1,0 +1,22 @@
+D:\AutoDelete\dhcpfilter\Common\bin\Debug\Common.dll
+D:\AutoDelete\dhcpfilter\Common\bin\Debug\Common.pdb
+D:\AutoDelete\dhcpfilter\Common\obj\Debug\Common.dll
+D:\AutoDelete\dhcpfilter\Common\obj\Debug\Common.pdb
+D:\Users\1601741\Desktop\dhcpfilter\Common\bin\Debug\Common.dll
+D:\Users\1601741\Desktop\dhcpfilter\Common\bin\Debug\Common.pdb
+D:\Users\1601741\Desktop\dhcpfilter\Common\obj\Debug\Common.dll
+D:\Users\1601741\Desktop\dhcpfilter\Common\obj\Debug\Common.pdb
+D:\Users\1601741\Desktop\dhcpfilter\Common\bin\Debug\Common.dll.config
+D:\Users\1601741\Desktop\dhcpfilter\Common\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Users\1601741\Desktop\dhcpfilter\Common\bin\Debug\Smtc.Util.dll
+D:\Users\1601741\Desktop\dhcpfilter\Common\bin\Debug\System.Management.Automation.dll
+D:\Users\1601741\Desktop\dhcpfilter\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\version\database+double service\dhcpfilter\Common\bin\Debug\Common.dll.config
+D:\version\database+double service\dhcpfilter\Common\bin\Debug\Common.dll
+D:\version\database+double service\dhcpfilter\Common\bin\Debug\Common.pdb
+D:\version\database+double service\dhcpfilter\Common\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\version\database+double service\dhcpfilter\Common\bin\Debug\Smtc.Util.dll
+D:\version\database+double service\dhcpfilter\Common\bin\Debug\System.Management.Automation.dll
+D:\version\database+double service\dhcpfilter\Common\obj\Debug\Common.dll
+D:\version\database+double service\dhcpfilter\Common\obj\Debug\Common.pdb
+D:\version\database+double service\dhcpfilter\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

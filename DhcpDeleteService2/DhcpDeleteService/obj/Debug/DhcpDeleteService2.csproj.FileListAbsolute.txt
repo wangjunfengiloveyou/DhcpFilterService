@@ -1,0 +1,24 @@
+D:\Users\1601741\Desktop\DhcpDeleteService - 副本\DhcpDeleteService\bin\Debug\DhcpDeleteService.exe.config
+D:\Users\1601741\Desktop\DhcpDeleteService - 副本\DhcpDeleteService\bin\Debug\DhcpDeleteService.exe
+D:\Users\1601741\Desktop\DhcpDeleteService - 副本\DhcpDeleteService\bin\Debug\DhcpDeleteService.pdb
+D:\Users\1601741\Desktop\DhcpDeleteService - 副本\DhcpDeleteService\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Users\1601741\Desktop\DhcpDeleteService - 副本\DhcpDeleteService\bin\Debug\Smtc.Util.dll
+D:\Users\1601741\Desktop\DhcpDeleteService - 副本\DhcpDeleteService\bin\Debug\System.Management.Automation.dll
+D:\Users\1601741\Desktop\DhcpDeleteService - 副本\DhcpDeleteService\obj\Debug\DhcpDeleteService.DhcpDeleteService2.resources
+D:\Users\1601741\Desktop\DhcpDeleteService - 副本\DhcpDeleteService\obj\Debug\DhcpDeleteService.ProjectInstaller.resources
+D:\Users\1601741\Desktop\DhcpDeleteService - 副本\DhcpDeleteService\obj\Debug\DhcpDeleteService2.csproj.GenerateResource.Cache
+D:\Users\1601741\Desktop\DhcpDeleteService - 副本\DhcpDeleteService\obj\Debug\DhcpDeleteService.exe
+D:\Users\1601741\Desktop\DhcpDeleteService - 副本\DhcpDeleteService\obj\Debug\DhcpDeleteService.pdb
+D:\Users\1601741\Desktop\DhcpDeleteService - 副本\DhcpDeleteService\obj\Debug\DhcpDeleteService2.csprojResolveAssemblyReference.cache
+D:\version\database+double service\DhcpDeleteService2\DhcpDeleteService\bin\Debug\DhcpDeleteService.exe.config
+D:\version\database+double service\DhcpDeleteService2\DhcpDeleteService\bin\Debug\DhcpDeleteService.exe
+D:\version\database+double service\DhcpDeleteService2\DhcpDeleteService\bin\Debug\DhcpDeleteService.pdb
+D:\version\database+double service\DhcpDeleteService2\DhcpDeleteService\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\version\database+double service\DhcpDeleteService2\DhcpDeleteService\bin\Debug\Smtc.Util.dll
+D:\version\database+double service\DhcpDeleteService2\DhcpDeleteService\bin\Debug\System.Management.Automation.dll
+D:\version\database+double service\DhcpDeleteService2\DhcpDeleteService\obj\Debug\DhcpDeleteService2.csprojResolveAssemblyReference.cache
+D:\version\database+double service\DhcpDeleteService2\DhcpDeleteService\obj\Debug\DhcpDeleteService.DhcpDeleteService2.resources
+D:\version\database+double service\DhcpDeleteService2\DhcpDeleteService\obj\Debug\DhcpDeleteService.ProjectInstaller.resources
+D:\version\database+double service\DhcpDeleteService2\DhcpDeleteService\obj\Debug\DhcpDeleteService2.csproj.GenerateResource.Cache
+D:\version\database+double service\DhcpDeleteService2\DhcpDeleteService\obj\Debug\DhcpDeleteService.exe
+D:\version\database+double service\DhcpDeleteService2\DhcpDeleteService\obj\Debug\DhcpDeleteService.pdb

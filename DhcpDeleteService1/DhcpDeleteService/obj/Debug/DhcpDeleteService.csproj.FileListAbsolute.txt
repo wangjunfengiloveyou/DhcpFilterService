@@ -1,0 +1,36 @@
+d:\users\1601741\my document\visual studio 2017\Projects\DhcpDeleteService\DhcpDeleteService\bin\Debug\DhcpDeleteService.exe.config
+d:\users\1601741\my document\visual studio 2017\Projects\DhcpDeleteService\DhcpDeleteService\bin\Debug\DhcpDeleteService.exe
+d:\users\1601741\my document\visual studio 2017\Projects\DhcpDeleteService\DhcpDeleteService\bin\Debug\DhcpDeleteService.pdb
+d:\users\1601741\my document\visual studio 2017\Projects\DhcpDeleteService\DhcpDeleteService\bin\Debug\Oracle.ManagedDataAccess.dll
+d:\users\1601741\my document\visual studio 2017\Projects\DhcpDeleteService\DhcpDeleteService\bin\Debug\Smtc.Util.dll
+d:\users\1601741\my document\visual studio 2017\Projects\DhcpDeleteService\DhcpDeleteService\bin\Debug\System.Management.Automation.dll
+d:\users\1601741\my document\visual studio 2017\Projects\DhcpDeleteService\DhcpDeleteService\obj\Debug\DhcpDeleteService.csprojResolveAssemblyReference.cache
+d:\users\1601741\my document\visual studio 2017\Projects\DhcpDeleteService\DhcpDeleteService\obj\Debug\DhcpDeleteService.DhcpDeleteService.resources
+d:\users\1601741\my document\visual studio 2017\Projects\DhcpDeleteService\DhcpDeleteService\obj\Debug\DhcpDeleteService.ProjectInstaller.resources
+d:\users\1601741\my document\visual studio 2017\Projects\DhcpDeleteService\DhcpDeleteService\obj\Debug\DhcpDeleteService.csproj.GenerateResource.Cache
+d:\users\1601741\my document\visual studio 2017\Projects\DhcpDeleteService\DhcpDeleteService\obj\Debug\DhcpDeleteService.exe
+d:\users\1601741\my document\visual studio 2017\Projects\DhcpDeleteService\DhcpDeleteService\obj\Debug\DhcpDeleteService.pdb
+D:\Users\1601741\Desktop\DhcpDeleteService\DhcpDeleteService\bin\Debug\DhcpDeleteService.exe.config
+D:\Users\1601741\Desktop\DhcpDeleteService\DhcpDeleteService\bin\Debug\DhcpDeleteService.exe
+D:\Users\1601741\Desktop\DhcpDeleteService\DhcpDeleteService\bin\Debug\DhcpDeleteService.pdb
+D:\Users\1601741\Desktop\DhcpDeleteService\DhcpDeleteService\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Users\1601741\Desktop\DhcpDeleteService\DhcpDeleteService\bin\Debug\Smtc.Util.dll
+D:\Users\1601741\Desktop\DhcpDeleteService\DhcpDeleteService\bin\Debug\System.Management.Automation.dll
+D:\Users\1601741\Desktop\DhcpDeleteService\DhcpDeleteService\obj\Debug\DhcpDeleteService.ProjectInstaller.resources
+D:\Users\1601741\Desktop\DhcpDeleteService\DhcpDeleteService\obj\Debug\DhcpDeleteService.csproj.GenerateResource.Cache
+D:\Users\1601741\Desktop\DhcpDeleteService\DhcpDeleteService\obj\Debug\DhcpDeleteService.exe
+D:\Users\1601741\Desktop\DhcpDeleteService\DhcpDeleteService\obj\Debug\DhcpDeleteService.pdb
+D:\Users\1601741\Desktop\DhcpDeleteService\DhcpDeleteService\obj\Debug\DhcpDeleteService.csprojResolveAssemblyReference.cache
+D:\Users\1601741\Desktop\DhcpDeleteService\DhcpDeleteService\obj\Debug\DhcpDeleteService.DhcpDeleteService1.resources
+D:\version\database+double service\DhcpDeleteService1\DhcpDeleteService\bin\Debug\DhcpDeleteService.exe.config
+D:\version\database+double service\DhcpDeleteService1\DhcpDeleteService\bin\Debug\DhcpDeleteService.exe
+D:\version\database+double service\DhcpDeleteService1\DhcpDeleteService\bin\Debug\DhcpDeleteService.pdb
+D:\version\database+double service\DhcpDeleteService1\DhcpDeleteService\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\version\database+double service\DhcpDeleteService1\DhcpDeleteService\bin\Debug\Smtc.Util.dll
+D:\version\database+double service\DhcpDeleteService1\DhcpDeleteService\bin\Debug\System.Management.Automation.dll
+D:\version\database+double service\DhcpDeleteService1\DhcpDeleteService\obj\Debug\DhcpDeleteService.csprojResolveAssemblyReference.cache
+D:\version\database+double service\DhcpDeleteService1\DhcpDeleteService\obj\Debug\DhcpDeleteService.DhcpDeleteService1.resources
+D:\version\database+double service\DhcpDeleteService1\DhcpDeleteService\obj\Debug\DhcpDeleteService.ProjectInstaller.resources
+D:\version\database+double service\DhcpDeleteService1\DhcpDeleteService\obj\Debug\DhcpDeleteService.csproj.GenerateResource.Cache
+D:\version\database+double service\DhcpDeleteService1\DhcpDeleteService\obj\Debug\DhcpDeleteService.exe
+D:\version\database+double service\DhcpDeleteService1\DhcpDeleteService\obj\Debug\DhcpDeleteService.pdb
