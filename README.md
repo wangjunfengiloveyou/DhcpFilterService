@@ -1,0 +1,8 @@
+# DhcpFilterService
+批量添加dhcpfilter，并设定加入时间和过期时间，到期后自动从dhcpserver删除
+
+DhcpDeleteService1安装在主DHCP服务器
+DhcpDeleteService2安装在备份DHCP服务器
+
+dhcpfilter为客户端.
+用户操作客户端对数据库进行读写，安装在dhcp服务器的windows service检测到变化进行同步更新
